@@ -2,9 +2,6 @@
 
 This is a simple web application to demostrate [Cross-Site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting) (XSS)
 
-## Screenshot
-
-![xss-me](screenshot.png)
 
 ## Demo video
 
